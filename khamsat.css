@@ -1,0 +1,147 @@
+body {
+  font-family: "Cairo", sans-serif;
+  font-family: "Noto Sans Arabic", sans-serif;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  background-color: #2e2e2e;
+  height: 35px;
+  margin: -10px;
+  padding: 20px;
+  font-size: 25px;
+}
+label {
+  color: rgb(255, 255, 255);
+}
+.khamsatimg {
+  height: 45px;
+}
+.back {
+  background-image: url(hero-33cc6eb8f1a98f8aacf154a4ff4c5f76d5610553e8ba4accb6d22515a64a184a.jpg);
+  background-size: cover;
+  display: flex;
+  position: relative;
+  z-index: -1;
+  height: 900px;
+  margin: -10px;
+}
+.divback1 {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 450px;
+  width: 100%;
+  font-size: 30px;
+}
+.searshbar {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 700px;
+  width: 100%;
+}
+.searsh {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 700px;
+  width: 86%;
+  color: rgb(57, 183, 57);
+  border-color: rgb(75, 187, 75);
+}
+.divback2 {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  width: 100%;
+  font-size: 20px;
+}
+.div2 {
+  font-size: 30px;
+  position: absolute;
+}
+.title {
+  display: flex;
+  justify-content: center;
+  color: green;
+  font-size: 30px;
+}
+.sec1 {
+  display: flex;
+  justify-content: space-around;
+  height: 200px;
+  margin: 20px;
+  padding: 10px;
+}
+.div3 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  height: 100%;
+  width: 100%;
+  margin: 30px;
+}
+.div3 img {
+  position: absolute;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+}
+.sec2 {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+  font-size: 25px;
+}
+.sec2 button {
+  font-size: 25px;
+  color: rgb(51, 218, 87);
+  background-color: rgb(255, 255, 255);
+  border-color: rgb(108, 221, 73);
+  margin-top: 30px;
+}
+.sec3 {
+  display: flex;
+  justify-content: space-around;
+}
+.sec4 {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+}
+.sec5 {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgba(46, 40, 40, 0.164);
+  padding: 30px;
+  margin: -10px;
+}
+.sec6 {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+}
+footer {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 60px;
+}
+li {
+  color: rgb(41, 185, 41);
+}
+h4 {
+  color: rgba(0, 0, 0, 0.578);
+}
+.checked {
+  color: orange;
+}
