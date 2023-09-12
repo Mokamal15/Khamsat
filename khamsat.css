@@ -19,7 +19,7 @@ label {
   height: 45px;
 }
 .back {
-  background-image: url(hero-33cc6eb8f1a98f8aacf154a4ff4c5f76d5610553e8ba4accb6d22515a64a184a.jpg);
+  background-image: url(./images/hero-33cc6eb8f1a98f8aacf154a4ff4c5f76d5610553e8ba4accb6d22515a64a184a.jpg);
   background-size: cover;
   display: flex;
   position: relative;
